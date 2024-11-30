@@ -18,20 +18,17 @@
 
 ### Step 1: Download the Extension 📥
 
-1. Download the project ZIP file from the [GitHub Repository](https://github.com/your-username/TwitterClipboardModifier):  
-   ![Download ZIP](https://via.placeholder.com/600x200?text=Click+%22Code%22+and+%22Download+ZIP%22)
+1. Download the project ZIP file from the [GitHub Repository](https://github.com/your-username/TwitterClipboardModifier)
 2. Extract the ZIP file to a folder on your computer.
 
 ### Step 2: Enable Developer Mode 🛠️
 
 1. Open Chrome and navigate to: chrome://extensions/
-2. Toggle the **Developer mode** switch in the top-right corner:  
-   ![Developer Mode Screenshot](https://via.placeholder.com/600x200?text=Toggle+Developer+Mode+ON)
+2. Toggle the **Developer mode** switch in the top-right corner
 
 ### Step 3: Load the Extension 🚀
 
-1. Click **Load unpacked**:  
-   ![Load Unpacked Screenshot](https://via.placeholder.com/600x200?text=Click+%22Load+Unpacked%22)
+1. Click **Load unpacked**
 2. Select the folder where you extracted the ZIP file in Step 1.
 3. 🎉 The extension will now appear in your list of installed extensions.
 
