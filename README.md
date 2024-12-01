@@ -18,7 +18,7 @@
 
 ### Step 1: Download the Extension 📥
 
-1. Download the project ZIP file from the [GitHub Repository](https://github.com/your-username/TwitterClipboardModifier)
+1. Download the project ZIP file from the [GitHub Repository](https://github.com/DonTarken/TwitterClipboardModifier)
 2. Extract the ZIP file to a folder on your computer.
 
 ### Step 2: Enable Developer Mode 🛠️
